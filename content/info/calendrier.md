@@ -1,6 +1,6 @@
 ---
 title: "Calendrier"
-description: "Résidences et tournées de Danse de Silence"
+description: "Résidences et tournées de Mehdi Mojahid"
 slug: "calendrier"
 image:
 keywords: "actualité, résidence, spectacle, recherche, L'L, Bruxelles, tournée, calendrier"

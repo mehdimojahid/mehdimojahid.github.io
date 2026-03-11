@@ -1,6 +1,6 @@
-baseURL = "https://www.dansedesilence.org/"
+baseURL = "https://www.mehdi.dance/"
 languageCode = "fr-fr"
-title = "Danse de Silence"
+title = "Mehdi Mojahid"
 theme = "forty"
 
 [params]
@@ -10,7 +10,7 @@ theme = "forty"
     [markup.goldmark.renderer]
       unsafe = true 
 [params.navigation]
-    title = "Danse de Silence"
+    title = "Mehdi Mojahid"
     subtitle = ""
     menu = "Menu"
     # Optional logo as brand stored in img/
